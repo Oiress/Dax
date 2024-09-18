@@ -1,16 +1,29 @@
 # Dax
 
-**Descripción**:  
-Dax es un juego hecho en Unity. Un *Rogue-like* en el que los jugadores navegan por mazmorras generadas proceduralmente mientras luchan contra enemigos y buscan objetos especiales.
+**Description**:  
+Dax is a game developed in Unity. It's a *Rogue-like* where players navigate procedurally generated dungeons, fight enemies, and search for special items.
 
-## Cómo jugar
-Descarga la versión portable del juego [aquí](https://github.com/Oiress/Dax/releases/tag/game).
+## Screenshots
+Include some screenshots of the game to give visitors a quick view of how it looks.
 
-## Características
-- **Género**: Rogue-like
-- **Tecnologías**: Unity, C#
+![screenshot1](assets/images/1.png)
+![screenshot2](assets/images/2.png)
+![screenshot3](assets/images/3.png)
+![screenshot4](assets/images/4.png)
+![screenshot5](assets/images/5.png)
 
-## Controles
-- W, A, S, D: Mover
-- Espacio: Saltar
-- Clic izquierdo: Atacar
+## How to Play
+Download the portable version of the game [here](https://github.com/Oiress/Dax/releases/tag/game).
+
+Unzip the downloaded file and run `dax.exe` to start playing.
+
+## Features
+- **Genre**: Rogue-like
+- **Technologies**: Unity, C#
+
+## Controls
+- W, A, S, D: Move
+- Spacebar: Jump
+- Left click: Attack
+- C: Show/Hide HUD
+- Esc: Pause Game
