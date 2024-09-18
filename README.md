@@ -27,5 +27,6 @@ Unzip the downloaded file and run `dax.exe` to start playing.
 - Left click: Attack
 - C: Show/Hide HUD
 - Esc: Pause Game
+(and some other secret inputs)
 
 ![screenshot5](assets/images/4.png)
