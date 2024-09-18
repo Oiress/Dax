@@ -17,6 +17,10 @@ Download the portable version of the game [here](https://github.com/Oiress/Dax/r
 
 Unzip the downloaded file and run `dax.exe` to start playing.
 
+Or
+
+Play it now on [itch.io](https://oires.itch.io/dax)
+
 ## Features
 - **Genre**: Rogue-like
 - **Technologies**: Unity, C#
